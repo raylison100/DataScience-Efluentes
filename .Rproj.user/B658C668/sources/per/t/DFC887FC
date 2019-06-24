@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561313757881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4057774505",
+    "id" : "DFC887FC",
+    "lastKnownWriteTime" : 1561313780,
+    "last_content_update" : 1561313780843,
+    "path" : "~/R Workspace/Projeto Disciplina/projeto.Rmd",
+    "project_path" : "projeto.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
